@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>CRUNCH TIME</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js"}}</script>
+</head><body>
+<div id="stage"><canvas id="c"></canvas><div id="ov"></div></div>
+<header id="top">
+  <div id="logo">CRUNCH<span>TIME</span></div>
+  <div id="pill" class="off">OFFLINE</div><div id="timer">00:00</div>
+</header>
+<aside id="roster"></aside>
+<div id="log"></div>
+<div id="ctl">
+  <button id="bDemo">&#9654; DEMO</button>
+  <select id="sel" title="Replay a past session"><option value="">REPLAY...</option></select>
+  <span id="sty"><button data-st="ps1">PS1</button><button data-st="rs2">RS2</button><button data-st="classic">CLASSIC</button><button data-st="hd">HD</button></span>
+  <span id="host"></span>
+  <span id="spd"><button data-s="1" class="on">x1</button><button data-s="2">x2</button><button data-s="4">x4</button><button data-s="8">x8</button></span>
+</div>
+<div id="start"><div>PRESS <b>DEMO</b></div><small>waiting for live agents...</small></div>
+<script type="module" src="js/main.js"></script>
+</body></html>

@@ -1,0 +1,18 @@
+{
+  "name": "crunch-time",
+  "version": "1.0.0",
+  "description": "Watch your Claude Code agents work as a low-poly office. The boss is the main session, the workers are subagents.",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "author": "winchxyz",
+  "repository": { "type": "git", "url": "git+https://github.com/winchxyz/crunch-time.git" },
+  "homepage": "https://winchxyz.github.io/crunch-time/",
+  "scripts": {
+    "start": "node server.mjs",
+    "hooks": "node install-hooks.mjs --global",
+    "unhooks": "node install-hooks.mjs --global --uninstall",
+    "record": "node tools/record.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
