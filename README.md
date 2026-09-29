@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="license MIT" src="https://img.shields.io/badge/license-MIT-blue"></a>
-  <img alt="node >= 20" src="https://img.shields.io/badge/node-%3E%3D20-339933?logo=nodedotjs&logoColor=white">
+  <img alt="node 20+" src="https://img.shields.io/badge/node-20%2B-339933?logo=nodedotjs&logoColor=white">
   <img alt="zero dependencies" src="https://img.shields.io/badge/dependencies-0-brightgreen">
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-r170-black?logo=threedotjs&logoColor=white">
   <img alt="built with Claude Code" src="https://img.shields.io/badge/built%20with-Claude%20Code-d97757">
