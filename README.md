@@ -2,7 +2,10 @@
   <img src="media/hero.gif" alt="CRUNCH TIME: a low-poly office where Claude Code subagents work at their desks" width="640">
 </p>
 
-<p align="center"><a href="media/hero.mp4">Watch the full clip</a> (20 s, MP4)</p>
+<p align="center">
+  <a href="media/promo.mp4"><img src="media/promo-thumb.jpg" alt="Play the 33 s promo video" width="480"></a><br>
+  <a href="media/promo.mp4"><b>▶ Watch the promo</b></a> (33 s) · <a href="media/promo-square.mp4">square version</a> · <a href="media/hero.mp4">raw clip</a> (20 s)
+</p>
 
 <h1 align="center">CRUNCH TIME</h1>
 
